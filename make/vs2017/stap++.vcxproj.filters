@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\cpp\Bar.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\cpp\Clock.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\cpp\Domain.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\cpp\ElementGroup.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\cpp\LoadCaseData.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\cpp\Material.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\cpp\Node.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\cpp\Outputter.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\cpp\Solver.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\cpp\main.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="4Q.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\h\Bar.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\h\Clock.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\h\Domain.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\h\Element.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\h\ElementGroup.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\h\LoadCaseData.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\h\Material.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\h\Node.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\h\Outputter.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\h\SkylineMatrix.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\h\Solver.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="4Q.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="SOURCE FILES">
+      <UniqueIdentifier>{D02AE68F-DA6B-3B6C-852C-B2A0AB5A0BC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HEADER FILES">
+      <UniqueIdentifier>{F1A664F5-0948-31A1-A5E3-6A2647D5983B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

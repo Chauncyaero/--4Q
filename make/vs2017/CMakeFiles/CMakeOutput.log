@@ -1,0 +1,623 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft(R) ��������汾 4.7.3056.0
+[Microsoft .NET Framework �汾 4.0.30319.42000]
+��Ȩ���� (C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2019/4/17 17:27:56��
+�ڵ� 1 �ϵ���Ŀ��D:\������\����Ԫ������\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\3.9.3\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdC.unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> D:\������\����Ԫ������\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\3.9.3\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdC.unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdC.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��D:\������\����Ԫ������\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\3.9.3\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:04.15
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/3.9.3/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft(R) ��������汾 4.7.3056.0
+[Microsoft .NET Framework �汾 4.0.30319.42000]
+��Ȩ���� (C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2019/4/17 17:28:02��
+�ڵ� 1 �ϵ���Ŀ��D:\������\����Ԫ������\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\3.9.3\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdCXX.unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> D:\������\����Ԫ������\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\3.9.3\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdCXX.unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdCXX.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��D:\������\����Ԫ������\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\3.9.3\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:01.96
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/3.9.3/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_5e47a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft(R) 生成引擎版本 4.7.3056.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/4/17 17:28:05。
+节点 1 上的项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_5e47a.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_5e47a.dir\Debug\”。
+  正在创建目录“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_5e47a.dir\Debug\cmTC_5e47a.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_5e47a.dir\Debug\\" /Fd"cmTC_5e47a.dir\Debug\vc110.pdb" /Gd /TC /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\testCCompiler.c"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 17.00.50727.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_5e47a.dir\Debug\\" /Fd"cmTC_5e47a.dir\Debug\vc110.pdb" /Gd /TC /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_5e47a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_5e47a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_5e47a.lib" /MACHINE:X64  /machine:x64 cmTC_5e47a.dir\Debug\testCCompiler.obj
+  cmTC_5e47a.vcxproj -> D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_5e47a.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_5e47a.dir\Debug\cmTC_5e47a.unsuccessfulbuild”。
+  正在对“cmTC_5e47a.dir\Debug\cmTC_5e47a.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_5e47a.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:02.31
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_6fd99.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft(R) 生成引擎版本 4.7.3056.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/4/17 17:28:08。
+节点 1 上的项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_6fd99.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_6fd99.dir\Debug\”。
+  正在创建目录“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_6fd99.dir\Debug\cmTC_6fd99.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_6fd99.dir\Debug\\" /Fd"cmTC_6fd99.dir\Debug\vc110.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCCompilerABI.c"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 17.00.50727.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_6fd99.dir\Debug\\" /Fd"cmTC_6fd99.dir\Debug\vc110.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_6fd99.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_6fd99.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_6fd99.lib" /MACHINE:X64  /machine:x64 cmTC_6fd99.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_6fd99.vcxproj -> D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_6fd99.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_6fd99.dir\Debug\cmTC_6fd99.unsuccessfulbuild”。
+  正在对“cmTC_6fd99.dir\Debug\cmTC_6fd99.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_6fd99.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:02.43
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_62c2f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft(R) 生成引擎版本 4.7.3056.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/4/17 17:28:11。
+节点 1 上的项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_62c2f.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_62c2f.dir\Debug\”。
+  正在创建目录“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_62c2f.dir\Debug\cmTC_62c2f.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_62c2f.dir\Debug\\" /Fd"cmTC_62c2f.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 17.00.50727.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_62c2f.dir\Debug\\" /Fd"cmTC_62c2f.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_62c2f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_62c2f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_62c2f.lib" /MACHINE:X64  /machine:x64 cmTC_62c2f.dir\Debug\testCXXCompiler.obj
+  cmTC_62c2f.vcxproj -> D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_62c2f.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_62c2f.dir\Debug\cmTC_62c2f.unsuccessfulbuild”。
+  正在对“cmTC_62c2f.dir\Debug\cmTC_62c2f.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_62c2f.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.63
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_4fb6d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft(R) 生成引擎版本 4.7.3056.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/4/17 17:28:14。
+节点 1 上的项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_4fb6d.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_4fb6d.dir\Debug\”。
+  正在创建目录“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_4fb6d.dir\Debug\cmTC_4fb6d.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_4fb6d.dir\Debug\\" /Fd"cmTC_4fb6d.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCXXCompilerABI.cpp"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 17.00.50727.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_4fb6d.dir\Debug\\" /Fd"cmTC_4fb6d.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.9\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_4fb6d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_4fb6d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_4fb6d.lib" /MACHINE:X64  /machine:x64 cmTC_4fb6d.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_4fb6d.vcxproj -> D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_4fb6d.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_4fb6d.dir\Debug\cmTC_4fb6d.unsuccessfulbuild”。
+  正在对“cmTC_4fb6d.dir\Debug\cmTC_4fb6d.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_4fb6d.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.80
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_1aeb9.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft(R) 生成引擎版本 4.7.3056.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/4/17 17:28:16。
+节点 1 上的项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_1aeb9.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_1aeb9.dir\Debug\”。
+  正在创建目录“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_1aeb9.dir\Debug\cmTC_1aeb9.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_1aeb9.dir\Debug\\" /Fd"cmTC_1aeb9.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\feature_tests.cxx"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 17.00.50727.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_1aeb9.dir\Debug\\" /Fd"cmTC_1aeb9.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_1aeb9.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_1aeb9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_1aeb9.lib" /MACHINE:X64  /machine:x64 cmTC_1aeb9.dir\Debug\feature_tests.obj
+  cmTC_1aeb9.vcxproj -> D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_1aeb9.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_1aeb9.dir\Debug\cmTC_1aeb9.unsuccessfulbuild”。
+  正在对“cmTC_1aeb9.dir\Debug\cmTC_1aeb9.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_1aeb9.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.56
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_fcfda.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft(R) 生成引擎版本 4.7.3056.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/4/17 17:28:19。
+节点 1 上的项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_fcfda.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_fcfda.dir\Debug\”。
+  正在创建目录“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_fcfda.dir\Debug\cmTC_fcfda.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_fcfda.dir\Debug\\" /Fd"cmTC_fcfda.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\feature_tests.cxx"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 17.00.50727.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_fcfda.dir\Debug\\" /Fd"cmTC_fcfda.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_fcfda.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_fcfda.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_fcfda.lib" /MACHINE:X64  /machine:x64 cmTC_fcfda.dir\Debug\feature_tests.obj
+  cmTC_fcfda.vcxproj -> D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_fcfda.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_fcfda.dir\Debug\cmTC_fcfda.unsuccessfulbuild”。
+  正在对“cmTC_fcfda.dir\Debug\cmTC_fcfda.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_fcfda.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.70
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_9bbd3.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft(R) 生成引擎版本 4.7.3056.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/4/17 17:28:22。
+节点 1 上的项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_9bbd3.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_9bbd3.dir\Debug\”。
+  正在创建目录“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_9bbd3.dir\Debug\cmTC_9bbd3.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_9bbd3.dir\Debug\\" /Fd"cmTC_9bbd3.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\feature_tests.cxx"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 17.00.50727.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_9bbd3.dir\Debug\\" /Fd"cmTC_9bbd3.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_9bbd3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_9bbd3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_9bbd3.lib" /MACHINE:X64  /machine:x64 cmTC_9bbd3.dir\Debug\feature_tests.obj
+  cmTC_9bbd3.vcxproj -> D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_9bbd3.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_9bbd3.dir\Debug\cmTC_9bbd3.unsuccessfulbuild”。
+  正在对“cmTC_9bbd3.dir\Debug\cmTC_9bbd3.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_9bbd3.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.48
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_84ff4.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft(R) 生成引擎版本 4.7.3056.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/4/17 17:28:24。
+节点 1 上的项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_84ff4.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_84ff4.dir\Debug\”。
+  正在创建目录“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_84ff4.dir\Debug\cmTC_84ff4.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_84ff4.dir\Debug\\" /Fd"cmTC_84ff4.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\feature_tests.cxx"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 17.00.50727.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_84ff4.dir\Debug\\" /Fd"cmTC_84ff4.dir\Debug\vc110.pdb" /Gd /TP /errorReport:queue "D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_84ff4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_84ff4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/大三下/有限元法基础/homework-hand_in/homework-4Q/stappp-master/make/vs2017/CMakeFiles/CMakeTmp/Debug/cmTC_84ff4.lib" /MACHINE:X64  /machine:x64 cmTC_84ff4.dir\Debug\feature_tests.obj
+  cmTC_84ff4.vcxproj -> D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\Debug\cmTC_84ff4.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_84ff4.dir\Debug\cmTC_84ff4.unsuccessfulbuild”。
+  正在对“cmTC_84ff4.dir\Debug\cmTC_84ff4.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\CMakeTmp\cmTC_84ff4.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.49
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates

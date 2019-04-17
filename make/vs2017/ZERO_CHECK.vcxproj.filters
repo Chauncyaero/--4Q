@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\大三下\有限元法基础\homework-hand_in\homework-4Q\stappp-master\make\vs2017\CMakeFiles\b2fef40911622cbab51d46d5f65daa1a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FCD12A28-85A8-3209-AFA1-9331B42F28FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
